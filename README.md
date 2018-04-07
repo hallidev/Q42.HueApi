@@ -138,6 +138,9 @@ Xbox One
 Windows Desktop
 * [CastleOS](http://www.CastleOS.com/)
 
+Android
+* [hueReact](https://play.google.com/store/apps/details?id=com.hallidev.HueReact)
+
 Command Line Tools - Windows, Linux (x64 & ARM) and Windows 10 IOT (ARM)
 * [Command Line Tools](https://github.com/DigitalNut/HueCmdNetCore)  -- Control your Hue from your command line
 * [C# Script Command Line Tool](https://github.com/DigitalNut/HueScript)  -- Use C# as your scripting language
